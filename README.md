@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/profile/ekanayakaridmik1"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -129,6 +129,6 @@ ridmika = {
 ## Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
