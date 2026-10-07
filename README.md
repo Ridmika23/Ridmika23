@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ridmika23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3D9DFF&center=true&vCenter=true&width=600&lines=Final-Year+Software+Engineering+Undergraduate;Data+Analytics+%7C+QA+%7C+Full+Stack;IEEE+CS+SLTC+Treasurer+%26+Volunteer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3D9DFF&center=true&vCenter=true&width=600&lines=Final-Year+Software+Engineering+Undergraduate;Data+Analytics+%7C+Quality+Assurance;IEEE+CS+SLTC+Treasurer+%26+Volunteer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 ```python
 ridmika = {
     "role"     : "Final-Year Software Engineering Undergraduate @ SLTC",
-    "focus"    : ["Data Analytics", "Quality Assurance", "Full-Stack Development"],
+    "focus"    : ["Data Analytics", "Quality Assurance"],
     "ieee"     : "Treasurer — IEEE CS Student Branch Chapter, SLTC (2025–2026)",
     "interests": ["Explainable AI", "Power BI Dashboards", "Software Testing"],
     "seeking"  : "Internship in Data Analytics / QA",
