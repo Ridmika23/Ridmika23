@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="divider">
+  <style>
+    .d { animation: d 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes d { 0%,100% { transform: translateY(0); opacity: .5; } 50% { transform: translateY(-5px); opacity: 1; } }
+  </style>
+  <line x1="60" y1="15" x2="560" y2="15" stroke="#C3D7FC" stroke-width="2" stroke-linecap="round"/>
+  <line x1="640" y1="15" x2="1140" y2="15" stroke="#C3D7FC" stroke-width="2" stroke-linecap="round"/>
+  <circle class="d" cx="584" cy="15" r="5" fill="#C3D7FC"/>
+  <circle class="d" style="animation-delay:.2s" cx="600" cy="15" r="5" fill="#2875FB"/>
+  <circle class="d" style="animation-delay:.4s" cx="616" cy="15" r="5" fill="#1E3FB2"/>
+</svg>
