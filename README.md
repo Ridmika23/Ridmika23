@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LinkedIn-2875FB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.hackerrank.com/profile/ekanayakaridmik1"><img src="https://img.shields.io/badge/HackerRank-1E3FB2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-030E50?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
@@ -132,12 +132,12 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridmika23&show_icons=true&hide_border=true&bg_color=F7FAFF&title_color=2875FB&icon_color=1E3FB2&text_color=030E50" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridmika23&layout=compact&hide_border=true&bg_color=F7FAFF&title_color=2875FB&text_color=030E50" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridmika23&show_icons=true&hide_border=true&bg_color=0A0F1E&title_color=2875FB&icon_color=60A5FA&text_color=E8F0FF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridmika23&layout=compact&hide_border=true&bg_color=0A0F1E&title_color=2875FB&text_color=E8F0FF" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ridmika23&hide_border=true&background=F7FAFF&ring=2875FB&fire=2875FB&currStreakLabel=1E3FB2&sideLabels=1E3FB2&dates=5B6B9A&currStreakNum=030E50&sideNums=030E50&stroke=C3D7FC" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Ridmika23&hide_border=true&background=0A0F1E&ring=2875FB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=7A8DB5&dates=7A8DB5&currStreakNum=E8F0FF&sideNums=E8F0FF&stroke=1E3FB2" alt="GitHub streak" />
 </p>
 
 <p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
@@ -153,8 +153,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-2875FB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E3FB2" alt="LinkedIn" /></a>
-  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-2875FB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E3FB2" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E" alt="LinkedIn" /></a>
+  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" alt="Email" /></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Ridmika23&label=profile%20views&color=2875FB&style=flat-square" alt="Profile views" />
 </p>

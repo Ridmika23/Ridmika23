@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Ridmika Yohani Ekanayaka — Data Analytics and Quality Assurance">
   <defs>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#C3D7FC" fill-opacity="0.55"/></pattern>
-    <linearGradient id="nameGrad" x1="0" x2="1"><stop offset="0" stop-color="#2875FB"/><stop offset="1" stop-color="#1E3FB2"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#2563EB" fill-opacity="0.3"/></pattern>
+    <linearGradient id="nameGrad" x1="0" x2="1"><stop offset="0" stop-color="#2875FB"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
     <clipPath id="panelClip"><rect x="10" y="10" width="1180" height="420" rx="24"/></clipPath>
   </defs>
   <style>
@@ -35,78 +35,78 @@
     @keyframes blob { 0%,100% { transform: translate(0,0); } 50% { transform: translate(10px,-12px); } }
 
   </style>
-  <rect x="10" y="10" width="1180" height="420" rx="24" fill="#F7FAFF"/>
+  <rect x="10" y="10" width="1180" height="420" rx="24" fill="#0A0F1E"/>
   <rect x="10" y="10" width="1180" height="420" fill="url(#dots)" clip-path="url(#panelClip)"/>
-  <rect x="11" y="11" width="1178" height="418" rx="23" fill="none" stroke="#C3D7FC" stroke-width="2"/>
+  <rect x="11" y="11" width="1178" height="418" rx="23" fill="none" stroke="#1E3FB2" stroke-width="2"/>
   <g clip-path="url(#panelClip)">
-    <circle class="blob" cx="1080" cy="80" r="120" fill="#C3D7FC" fill-opacity="0.45"/>
-    <circle class="blob" style="animation-delay:-3s" cx="760" cy="420" r="90" fill="#C3D7FC" fill-opacity="0.35"/>
-    <ellipse cx="900" cy="452" rx="250" ry="62" fill="#C3D7FC"/>
-    <ellipse cx="1120" cy="470" rx="160" ry="50" fill="#2875FB" fill-opacity="0.25"/>
+    <circle class="blob" cx="1080" cy="80" r="120" fill="#1E3FB2" fill-opacity="0.3"/>
+    <circle class="blob" style="animation-delay:-3s" cx="760" cy="420" r="90" fill="#2563EB" fill-opacity="0.2"/>
+    <ellipse cx="900" cy="452" rx="250" ry="62" fill="#1E3FB2" fill-opacity="0.5"/>
+    <ellipse cx="1120" cy="470" rx="160" ry="50" fill="#2875FB" fill-opacity="0.2"/>
   </g>
 
-  <rect x="40" y="36" width="190" height="28" rx="14" fill="#FFFFFF" stroke="#C3D7FC" stroke-width="1.5"/>
+  <rect x="40" y="36" width="190" height="28" rx="14" fill="#0D1526" stroke="#1E3FB2" stroke-width="1.5"/>
   <circle class="pulse" cx="58" cy="50" r="3.5" fill="#2875FB"/>
-  <text class="mono" x="70" y="54" font-size="11" fill="#1E3FB2" letter-spacing="1">ridmika23 / README</text>
-  <text class="mono" x="1160" y="55" font-size="11" fill="#5B6B9A" letter-spacing="1.5" text-anchor="end">RATNAPURA, LK · OPEN TO INTERNSHIPS</text>
+  <text class="mono" x="70" y="54" font-size="11" fill="#60A5FA" letter-spacing="1">ridmika23 / README</text>
+  <text class="mono" x="1160" y="55" font-size="11" fill="#7A8DB5" letter-spacing="1.5" text-anchor="end">RATNAPURA, LK · OPEN TO INTERNSHIPS</text>
 
   <text class="mono rise r1" x="52" y="138" font-size="13" fill="#2875FB" letter-spacing="4">// DATA ANALYTICS · QUALITY ASSURANCE</text>
-  <text class="sans rise r1" x="50" y="176" font-size="22" font-weight="600" fill="#5B6B9A">Hi, I'm</text>
+  <text class="sans rise r1" x="50" y="176" font-size="22" font-weight="600" fill="#7A8DB5">Hi, I'm</text>
   <g class="rise r2">
-    <text class="sans" x="48" y="236" font-size="58" font-weight="800" fill="#030E50" letter-spacing="-1.5">Ridmika Yohani</text>
+    <text class="sans" x="48" y="236" font-size="58" font-weight="800" fill="#E8F0FF" letter-spacing="-1.5">Ridmika Yohani</text>
     <text class="sans" x="48" y="298" font-size="58" font-weight="800" fill="url(#nameGrad)" letter-spacing="-1.5">Ekanayaka</text>
   </g>
-  <text class="sans rise r3" x="52" y="346" font-size="18" fill="#5B6B9A">I find the story in the data, and the bugs before your users do.</text>
+  <text class="sans rise r3" x="52" y="346" font-size="18" fill="#7A8DB5">I find the story in the data, and the bugs before your users do.</text>
 
   <g class="rise r4">
-    <rect x="50" y="368" width="440" height="34" rx="17" fill="#FFFFFF" stroke="#C3D7FC" stroke-width="1.5"/>
+    <rect x="50" y="368" width="440" height="34" rx="17" fill="#0D1526" stroke="#1E3FB2" stroke-width="1.5"/>
     <text class="mono" x="70" y="390" font-size="12" fill="#2875FB">▸</text>
-    <text class="mono role t1" x="88" y="390" font-size="12" fill="#030E50">Final-year Software Engineering @ SLTC</text>
-    <text class="mono role t2" x="88" y="390" font-size="12" fill="#030E50">Power BI · Python · Pytest · Selenium</text>
-    <text class="mono role t3" x="88" y="390" font-size="12" fill="#030E50">IEEE CS SLTC · Treasurer 2025–26</text>
+    <text class="mono role t1" x="88" y="390" font-size="12" fill="#E8F0FF">Final-year Software Engineering @ SLTC</text>
+    <text class="mono role t2" x="88" y="390" font-size="12" fill="#E8F0FF">Power BI · Python · Pytest · Selenium</text>
+    <text class="mono role t3" x="88" y="390" font-size="12" fill="#E8F0FF">IEEE CS SLTC · Treasurer 2025–26</text>
   </g>
 
   <!-- floating cards -->
   <g class="float rise r4">
-    <rect x="680" y="176" width="150" height="84" rx="16" fill="#FFFFFF" stroke="#C3D7FC" stroke-width="1.5"/>
-    <text class="mono" x="696" y="200" font-size="10" fill="#5B6B9A">▤ prices.pbix</text>
-    <rect class="bar" x="698" y="222" width="14" height="24" rx="3" fill="#C3D7FC"/>
-    <rect class="bar" style="animation-delay:.2s" x="718" y="214" width="14" height="32" rx="3" fill="#2875FB" fill-opacity="0.6"/>
-    <rect class="bar" style="animation-delay:.4s" x="738" y="218" width="14" height="28" rx="3" fill="#C3D7FC"/>
+    <rect x="680" y="176" width="150" height="84" rx="16" fill="#0D1526" stroke="#1E3FB2" stroke-width="1.5"/>
+    <text class="mono" x="696" y="200" font-size="10" fill="#7A8DB5">▤ prices.pbix</text>
+    <rect class="bar" x="698" y="222" width="14" height="24" rx="3" fill="#1E3FB2"/>
+    <rect class="bar" style="animation-delay:.2s" x="718" y="214" width="14" height="32" rx="3" fill="#2875FB" fill-opacity="0.8"/>
+    <rect class="bar" style="animation-delay:.4s" x="738" y="218" width="14" height="28" rx="3" fill="#1E3FB2"/>
     <rect class="bar" style="animation-delay:.6s" x="758" y="208" width="14" height="38" rx="3" fill="#2875FB"/>
-    <rect class="bar" style="animation-delay:.8s" x="778" y="212" width="14" height="34" rx="3" fill="#1E3FB2"/>
+    <rect class="bar" style="animation-delay:.8s" x="778" y="212" width="14" height="34" rx="3" fill="#60A5FA"/>
     <rect class="bar" style="animation-delay:1s"  x="798" y="204" width="14" height="42" rx="3" fill="#2875FB"/>
   </g>
   <g class="float rise r5" style="animation-delay:1.5s">
-    <rect x="1000" y="262" width="150" height="34" rx="17" fill="#030E50"/>
+    <rect x="1000" y="262" width="150" height="34" rx="17" fill="#0D1526" stroke="#2875FB" stroke-width="1.5"/>
     <circle cx="1020" cy="279" r="8" fill="#2875FB"/>
     <path d="M1016 279 l3 3 l5 -6" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text class="mono" x="1036" y="283" font-size="12" fill="#ffffff">all tests passed</text>
+    <text class="mono" x="1036" y="283" font-size="12" fill="#E8F0FF">all tests passed</text>
   </g>
 
   <!-- speech bubble -->
-  <rect x="950" y="140" width="200" height="48" rx="16" fill="#FFFFFF" stroke="#C3D7FC" stroke-width="1.5"/>
-  <path d="M972 186 L956 206 L990 187 Z" fill="#FFFFFF" stroke="#C3D7FC" stroke-width="1.5" stroke-linejoin="round"/>
-  <rect x="968" y="182" width="26" height="6" fill="#FFFFFF"/>
-  <text class="sans role t1" x="1050" y="170" font-size="14" font-weight="600" fill="#030E50" text-anchor="middle">Found a bug!</text>
-  <text class="sans role t2" x="1050" y="170" font-size="14" font-weight="600" fill="#030E50" text-anchor="middle">All tests passed ✓</text>
-  <text class="sans role t3" x="1050" y="170" font-size="14" font-weight="600" fill="#030E50" text-anchor="middle">Let me chart that.</text>
+  <rect x="950" y="140" width="200" height="48" rx="16" fill="#0D1526" stroke="#1E3FB2" stroke-width="1.5"/>
+  <path d="M972 186 L956 206 L990 187 Z" fill="#0D1526" stroke="#1E3FB2" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="968" y="182" width="26" height="6" fill="#0D1526"/>
+  <text class="sans role t1" x="1050" y="170" font-size="14" font-weight="600" fill="#E8F0FF" text-anchor="middle">Found a bug!</text>
+  <text class="sans role t2" x="1050" y="170" font-size="14" font-weight="600" fill="#E8F0FF" text-anchor="middle">All tests passed ✓</text>
+  <text class="sans role t3" x="1050" y="170" font-size="14" font-weight="600" fill="#E8F0FF" text-anchor="middle">Let me chart that.</text>
 
   <g transform="translate(900 300) scale(1.6)">
-      <ellipse class="m-shadow" cx="0" cy="62" rx="44" ry="7" fill="#1E3FB2" fill-opacity="0.25"/>
+      <ellipse class="m-shadow" cx="0" cy="62" rx="44" ry="7" fill="#1E3FB2" fill-opacity="0.4"/>
       <g class="m-bounce"><g class="m-squash">
-        <ellipse cx="-16" cy="56" rx="11" ry="7" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
-        <ellipse cx="16" cy="56" rx="11" ry="7" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
-        <ellipse cx="-56" cy="14" rx="9" ry="13" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
-        <ellipse class="m-wave" cx="56" cy="12" rx="9" ry="13" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
-        <path d="M-54 50 C-60 -8 -48 -48 0 -48 C48 -48 60 -8 54 50 Q0 60 -54 50 Z" fill="#ffffff" stroke="#C3D7FC" stroke-width="2.5"/>
-        <path d="M36 -34 Q58 0 48 46 Q36 54 22 56 Q46 20 36 -34 Z" fill="#C3D7FC" fill-opacity="0.35"/>
-        <circle cx="-30" cy="-30" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-18" cy="-40" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="22" cy="-36" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="34" cy="-18" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-38" cy="20" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="36" cy="30" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-24" cy="40" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="10" cy="44" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="30" cy="8" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-36" cy="-8" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/>
-        <ellipse class="m-eye" cx="-13" cy="-4" rx="4" ry="5" fill="#030E50"/>
-        <ellipse class="m-eye" cx="13" cy="-4" rx="4" ry="5" fill="#030E50"/>
+        <ellipse cx="-16" cy="56" rx="11" ry="7" fill="#0D1526" stroke="#1E3FB2" stroke-width="2"/>
+        <ellipse cx="16" cy="56" rx="11" ry="7" fill="#0D1526" stroke="#1E3FB2" stroke-width="2"/>
+        <ellipse cx="-56" cy="14" rx="9" ry="13" fill="#0D1526" stroke="#1E3FB2" stroke-width="2"/>
+        <ellipse class="m-wave" cx="56" cy="12" rx="9" ry="13" fill="#0D1526" stroke="#1E3FB2" stroke-width="2"/>
+        <path d="M-54 50 C-60 -8 -48 -48 0 -48 C48 -48 60 -8 54 50 Q0 60 -54 50 Z" fill="#0D1526" stroke="#1E3FB2" stroke-width="2.5"/>
+        <path d="M36 -34 Q58 0 48 46 Q36 54 22 56 Q46 20 36 -34 Z" fill="#2563EB" fill-opacity="0.25"/>
+        <circle cx="-30" cy="-30" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="-18" cy="-40" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="22" cy="-36" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="34" cy="-18" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="-38" cy="20" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="36" cy="30" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="-24" cy="40" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="10" cy="44" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="30" cy="8" r="1.4" fill="#2563EB" fill-opacity="0.9"/><circle cx="-36" cy="-8" r="1.4" fill="#2563EB" fill-opacity="0.9"/>
+        <ellipse class="m-eye" cx="-13" cy="-4" rx="4" ry="5" fill="#60A5FA"/>
+        <ellipse class="m-eye" cx="13" cy="-4" rx="4" ry="5" fill="#60A5FA"/>
         <circle cx="-11.5" cy="-6" r="1.3" fill="#ffffff"/><circle cx="14.5" cy="-6" r="1.3" fill="#ffffff"/>
         <ellipse cx="-25" cy="8" rx="7" ry="4" fill="#ff9fb4" fill-opacity="0.6"/>
         <ellipse cx="25" cy="8" rx="7" ry="4" fill="#ff9fb4" fill-opacity="0.6"/>
-        <path d="M-7 7 Q0 14 7 7" fill="none" stroke="#030E50" stroke-width="2.4" stroke-linecap="round"/>
+        <path d="M-7 7 Q0 14 7 7" fill="none" stroke="#E8F0FF" stroke-width="2.4" stroke-linecap="round"/>
       </g></g></g>
 </svg>
