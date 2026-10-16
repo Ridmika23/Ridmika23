@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Got data to explore or a build to test? Let's connect.">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#C3D7FC" fill-opacity="0.55"/></pattern>
+    <linearGradient id="nameGrad" x1="0" x2="1"><stop offset="0" stop-color="#2875FB"/><stop offset="1" stop-color="#1E3FB2"/></linearGradient>
+    <clipPath id="panelClip"><rect x="10" y="10" width="1180" height="280" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Nunito, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, Menlo, monospace; }
+    .pulse { animation: pulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(.7); } }
+    .float { animation: float 5s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+    .m-bounce { animation: mbounce 2.4s cubic-bezier(.45,0,.55,1) infinite; }
+    @keyframes mbounce { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    .m-squash { transform-box: fill-box; transform-origin: 50% 100%; animation: msquash 2.4s cubic-bezier(.45,0,.55,1) infinite; }
+    @keyframes msquash { 0%,100% { transform: scale(1.06,.94); } 12% { transform: scale(1,1); } 50% { transform: scale(.97,1.03); } 88% { transform: scale(1,1); } }
+    .m-shadow { transform-box: fill-box; transform-origin: center; animation: mshadow 2.4s cubic-bezier(.45,0,.55,1) infinite; }
+    @keyframes mshadow { 0%,100% { transform: scale(1); opacity: .5; } 50% { transform: scale(.75); opacity: .25; } }
+    .m-eye { transform-box: fill-box; transform-origin: center; animation: mblink 4.5s infinite; }
+    @keyframes mblink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+    .m-wave { transform-box: fill-box; transform-origin: 30% 80%; animation: mwave 3s ease-in-out infinite; }
+    @keyframes mwave { 0%,55%,100% { transform: rotate(0deg); } 62% { transform: rotate(-40deg); } 70% { transform: rotate(-15deg); } 78% { transform: rotate(-40deg); } 86% { transform: rotate(0deg); } }
+
+    .heart { opacity: 0; animation: heart 4s ease-out infinite; }
+    @keyframes heart { 0% { opacity: 0; transform: translateY(0) scale(.6); } 20% { opacity: 1; } 100% { opacity: 0; transform: translateY(-60px) scale(1); } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+  </style>
+  <rect x="10" y="10" width="1180" height="280" rx="24" fill="#F7FAFF"/>
+  <rect x="10" y="10" width="1180" height="280" fill="url(#dots)" clip-path="url(#panelClip)"/>
+  <rect x="11" y="11" width="1178" height="278" rx="23" fill="none" stroke="#C3D7FC" stroke-width="2"/>
+  <g clip-path="url(#panelClip)">
+    <ellipse cx="250" cy="300" rx="220" ry="56" fill="#C3D7FC"/>
+  </g>
+  <g transform="translate(250 192) scale(1.3)">
+      <ellipse class="m-shadow" cx="0" cy="62" rx="44" ry="7" fill="#1E3FB2" fill-opacity="0.25"/>
+      <g class="m-bounce"><g class="m-squash">
+        <ellipse cx="-16" cy="56" rx="11" ry="7" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
+        <ellipse cx="16" cy="56" rx="11" ry="7" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
+        <ellipse cx="-56" cy="14" rx="9" ry="13" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
+        <ellipse class="m-wave" cx="56" cy="12" rx="9" ry="13" fill="#ffffff" stroke="#C3D7FC" stroke-width="2"/>
+        <path d="M-54 50 C-60 -8 -48 -48 0 -48 C48 -48 60 -8 54 50 Q0 60 -54 50 Z" fill="#ffffff" stroke="#C3D7FC" stroke-width="2.5"/>
+        <path d="M36 -34 Q58 0 48 46 Q36 54 22 56 Q46 20 36 -34 Z" fill="#C3D7FC" fill-opacity="0.35"/>
+        <circle cx="-30" cy="-30" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-18" cy="-40" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="22" cy="-36" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="34" cy="-18" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-38" cy="20" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="36" cy="30" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-24" cy="40" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="10" cy="44" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="30" cy="8" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/><circle cx="-36" cy="-8" r="1.4" fill="#C3D7FC" fill-opacity="0.9"/>
+        <ellipse class="m-eye" cx="-13" cy="-4" rx="4" ry="5" fill="#030E50"/>
+        <ellipse class="m-eye" cx="13" cy="-4" rx="4" ry="5" fill="#030E50"/>
+        <circle cx="-11.5" cy="-6" r="1.3" fill="#ffffff"/><circle cx="14.5" cy="-6" r="1.3" fill="#ffffff"/>
+        <ellipse cx="-25" cy="8" rx="7" ry="4" fill="#ff9fb4" fill-opacity="0.6"/>
+        <ellipse cx="25" cy="8" rx="7" ry="4" fill="#ff9fb4" fill-opacity="0.6"/>
+        <path d="M-7 7 Q0 14 7 7" fill="none" stroke="#030E50" stroke-width="2.4" stroke-linecap="round"/>
+      </g></g></g>
+  <path class="heart" style="animation-delay:0s" d="M310 126 l-7 -7 a4.5 4.5 0 0 1 7 -5.5 a4.5 4.5 0 0 1 7 5.5 Z" fill="#2875FB"/><path class="heart" style="animation-delay:1.3s" d="M188 116 l-7 -7 a4.5 4.5 0 0 1 7 -5.5 a4.5 4.5 0 0 1 7 5.5 Z" fill="#C3D7FC"/><path class="heart" style="animation-delay:2.6s" d="M330 156 l-7 -7 a4.5 4.5 0 0 1 7 -5.5 a4.5 4.5 0 0 1 7 5.5 Z" fill="#1E3FB2"/>
+  <text class="mono" x="500" y="96" font-size="12" fill="#2875FB" letter-spacing="4">// 05 — LET'S CONNECT</text>
+  <text class="sans" x="498" y="150" font-size="40" font-weight="800" fill="#030E50" letter-spacing="-1">Got data to explore</text>
+  <text class="sans" x="498" y="196" font-size="40" font-weight="800" fill="url(#nameGrad)" letter-spacing="-1">or a build to test?</text>
+  <text class="mono" x="500" y="240" font-size="13" fill="#5B6B9A">ekanayakaridmika2002@gmail.com  ·  Ratnapura, Sri Lanka</text>
+</svg>
