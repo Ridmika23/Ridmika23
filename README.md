@@ -4,37 +4,37 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ridmika-ekanayaka">
-    <img width="100%" src="./assets/hero.svg?v=1" alt="Ridmika Yohani Ekanayaka — Data Analytics and Quality Assurance" />
+    <img width="100%" src="./assets/hero.svg?v=2" alt="Ridmika Yohani Ekanayaka — Data Analytics and Quality Assurance" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LinkedIn-2875FB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/profile/ekanayakaridmik1"><img src="https://img.shields.io/badge/HackerRank-1E3FB2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LinkedIn-080D18?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/ekanayakaridmik1"><img src="https://img.shields.io/badge/HackerRank-080D18?style=for-the-badge&logo=hackerrank&logoColor=2875FB" alt="HackerRank" /></a>
+  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-080D18?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" /></a>
 </p>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=2" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                         ABOUT                             -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="./assets/about.svg?v=1" alt="About me: final-year Software Engineering undergraduate at SLTC, focused on Data Analytics and Quality Assurance, IEEE CS SLTC Treasurer, seeking a Data Analytics / QA internship" />
+  <img width="100%" src="./assets/about.svg?v=2" alt="About me: final-year Software Engineering undergraduate at SLTC, focused on Data Analytics and Quality Assurance, IEEE CS SLTC Treasurer, seeking a Data Analytics / QA internship" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=2" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                        TOOLKIT                            -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="./assets/skills.svg?v=1" alt="Toolkit: Power BI, Excel, SQL, Python, Pandas, Selenium, Postman, Pytest, React, Flutter and more" />
+  <img width="100%" src="./assets/skills.svg?v=2" alt="Toolkit: Power BI, Excel, SQL, Python, Pandas, Selenium, Postman, Pytest, React, Flutter and more" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=2" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                      -->
@@ -88,7 +88,7 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=2" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--               CERTIFICATIONS & VOLUNTEERING               -->
@@ -125,22 +125,22 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=2" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                        ACTIVITY                           -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridmika23&show_icons=true&hide_border=true&bg_color=0A0F1E&title_color=2875FB&icon_color=60A5FA&text_color=E8F0FF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridmika23&layout=compact&hide_border=true&bg_color=0A0F1E&title_color=2875FB&text_color=E8F0FF" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridmika23&show_icons=true&hide_border=true&bg_color=080D18&title_color=2875FB&icon_color=60A5FA&text_color=C8DEFF&border_color=1E3FB2" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridmika23&layout=compact&hide_border=true&bg_color=080D18&title_color=2875FB&text_color=C8DEFF&border_color=1E3FB2" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ridmika23&hide_border=true&background=0A0F1E&ring=2875FB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=7A8DB5&dates=7A8DB5&currStreakNum=E8F0FF&sideNums=E8F0FF&stroke=1E3FB2" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Ridmika23&hide_border=true&background=080D18&ring=2875FB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=3B5498&dates=3B5498&currStreakNum=C8DEFF&sideNums=C8DEFF&stroke=1E3FB2" alt="GitHub streak" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=1" alt="" /></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=2" alt="" /></p>
 
 <!-- ========================================================= -->
 <!--                        CONNECT                            -->
@@ -148,13 +148,13 @@
 
 <p align="center">
   <a href="mailto:ekanayakaridmika2002@gmail.com">
-    <img width="100%" src="./assets/connect.svg?v=1" alt="Got data to explore or a build to test? Let's connect." />
+    <img width="100%" src="./assets/connect.svg?v=2" alt="Got data to explore or a build to test? Let's connect." />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E" alt="LinkedIn" /></a>
-  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ridmika-ekanayaka"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-080D18?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=1E3FB2" alt="LinkedIn" /></a>
+  <a href="mailto:ekanayakaridmika2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-080D18?style=for-the-badge&logo=gmail&logoColor=60A5FA&labelColor=1E3FB2" alt="Email" /></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Ridmika23&label=profile%20views&color=2875FB&style=flat-square" alt="Profile views" />
 </p>
